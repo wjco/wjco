@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![wjco's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjco&show_icons=true&theme=radical)
+
 <!--
 **wjco/wjco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
