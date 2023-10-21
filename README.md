@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/pandas-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
     <img src="https://img.shields.io/badge/numpy-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
     <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white" />
-    <img src="https://img.shields.io/badge/scipy-%238CAAE6.svg?&style=for-the-badge&logo=scipy&logoColor=black" />
+    <img src="https://img.shields.io/badge/scipy-%238CAAE6.svg?&style=for-the-badge&logo=scipy&logoColor=white" />
     <br>
     <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/microsoft%20excel-%23217346.svg?&style=for-the-badge&logo=microsoft%20excel&logoColor=white" />
