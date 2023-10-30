@@ -30,10 +30,11 @@
 ## What I do in GitHub
 ### Data Studies
   <div>
-    스터디장으로 3개의 스터디를 직접 조직하여 참여 중<br><br>
+    스터디장으로 4개의 스터디를 직접 조직하여 참여 중<br><br>
     <b>DataStudy-sat</b> (매주 토요일 오전 11시 / @판교) <a href="https://github.com/wjco/DataStudy-sat">[바로가기]</a><br>
-    <b>DSStudy-sun</b> (매주 일요일 오후 6시 / @강남) <a href="https://github.com/wjco/DSStudy-sun">[바로가기]</a><br>
-    <b>DAStudy-sun</b> (매주 일요일 오후 7시 / @강남) <a href="https://github.com/wjco/DAStudy-sun">[바로가기]</a><br>
+    <b>DSStudy-sun</b> (매주 일요일 오후 3시 / @강남) <a href="https://github.com/wjco/DSStudy-sun">[바로가기]</a><br>
+    <b>DAStudy-sun2</b> (매주 일요일 오후 5시 / @강남) <a href="https://github.com/wjco/DAStudy-sun2">[바로가기]</a><br>
+    <b>DAStudy-sun</b> (매주 일요일 오후 8시 / @사당) <a href="https://github.com/wjco/DAStudy-sun">[바로가기]</a><br>
   </div>
   <br>
 
@@ -47,9 +48,10 @@
 
 ### Study Myself
   <div>
-    알고리즘 문제 풀이, 데이터분석 미니 프로젝트 등을 기록<br><br>
+    알고리즘 문제 풀이, 데이터분석, 통계 공부한 내용 등을 기록<br><br>
     <b>알고리즘 스터디</b> <a href="https://github.com/wjco/Algorithm">[바로가기]</a><br>
     <b>데이터 스터디</b> <a href="https://github.com/wjco/DataAnalysis">[바로가기]</a><br>
+    <b>통계 스터디</b> <a href="https://github.com/wjco/Statistic">[바로가기]</a><br>
   </div>
   <br>
   <br>
