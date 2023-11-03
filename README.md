@@ -38,6 +38,14 @@
   </div>
   <br>
 
+### Compeitions
+  <div>
+    팀 단위 공모전에 참여하여, 데이터 분석부터 딥러닝 모델링까지 다양한 과업 수행<br><br>
+    <b>data-creator-camp</b> (이미지 분류 DL 모델링) <a href="https://github.com/wjco/data-creator-camp">[바로가기]</a><br>
+    <b>one-step-project</b> (서울시 행정동별 고립은둔 청년 발굴 및 시각화)
+  </div>
+  <br>
+
 ### NiNi
   <div>
     간편하게 SD 캐릭터 이미지를 생성하도록 하는 4인 Full-Stack 프로젝트<br>
