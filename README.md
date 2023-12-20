@@ -30,49 +30,31 @@
 ## What I do in GitHub
 ### Studies
   <div>
-    스터디장으로 4개의 스터디를 직접 조직하여 참여 중<br><br>
+    스터디장으로 3개의 스터디를 직접 조직하여 참여 중<br><br>
     <b>1. DAStatsStudy-fri</b> <a href="https://github.com/wjco/DAStatsStudy-fri">[바로가기]</a><br>
     (매주 금요일 19시, @왕십리)<br>
     데이터 분석, 통계 스터디<br><br>
-    <b>2. DataStudy-sat</b> <a href="https://github.com/wjco/DataStudy-sat">[바로가기]</a><br>
-    (매주 토요일 11시, @판교)<br>
-    데이터 분석, 통계 스터디<br><br>
-    <b>3. DAStudy-sun2</b> <a href="https://github.com/wjco/DAStudy-sun2">[바로가기]</a><br>
+    <b>2. DAStudy-sun2</b> <a href="https://github.com/wjco/DAStudy-sun2">[바로가기]</a><br>
     (매주 일요일 17시, @강남)<br>
     데이터 분석 스터디<br><br>
-    <b>4. DAStudy-sun</b> <a href="https://github.com/wjco/DAStudy-sun">[바로가기]</a><br>
+    <b>3. DAStudy-sun</b> <a href="https://github.com/wjco/DAStudy-sun">[바로가기]</a><br>
     (매주 일요일 20시, @사당)<br>
     데이터 분석 스터디<br>
   </div>
   <br>
   <br>
 
-### Compeitions
-  <div>
-    팀 단위 공모전에 참여하여, 데이터 분석부터 딥러닝 모델링까지 다양한 과업 수행<br><br>
-    <b>1. data-creator-camp</b> <a href="https://github.com/wjco/data-creator-camp">[바로가기]</a><br>
-    2023 데이터 크리에이터 캠프 (5인 팀)<br>
-    ResNet-18 아키텍처를 활용한 이미지 분류 모델링<br>
-    각 미션에 맞춰 DL 모델 학습, 튜닝, 전이학습(Fine-Tuning) 수행<br>
-    최종 95.58%의 validation accuracy 달성하여 <b>예선 통과</b> 후 본선 진행 중<br><br>
-    <b>2. one-step-project</b><br>
-    2023 서울시 빅데이터 캠퍼스 공모전 참여 (4인 팀)<br>
-    서울시 각 행정동별 고립은둔청년 위험 요인을 탐색하여 지표 도출<br>
-    행정동별 클러스터링 후 각 군집별로 두드러지는 특성을 통계적으로 분석<br>
-    folium 이용하여 위험 요인이 분포된 행정동 군집을 지도 위에 시각화<br>
-    강서구, 관악구의 위험 요소를 식별하여 메타버스 상담 등의 해결책 제시<br>
-  </div>
-  <br>
-  <br>
-
 ### Projects
   <div>
-    <b>NiNi (by. tiny-enchanter)</b> <a href="https://github.com/ing970/tiny-enchanter">[바로가기]</a><br>
-    간편하게 SD 캐릭터 이미지를 생성하도록 하는 Full-Stack 프로젝트 (4인 팀)<br>
-    프로젝트의 스코프에 맞는 관계형 데이터베이스의 ERD 설계<br>
-    pymysql 활용하여 데이터 추출 및 저장하는 쿼리 로직 작성<br>
-    FastAPI 프레임워크를 통해 4개의 뷰로 작동되는 서비스 구성<br>
-    javascript의 axios 이용하여 비동기 처리 로직 구성<br>
+    팀 단위 공모전에 참여하여, 데이터 분석부터 딥러닝 모델링까지 다양한 과업 수행<br><br>
+    <b>#data-creator-camp</b> <a href="https://github.com/wjco/data-creator-camp">[바로가기]</a><br>
+    2023 데이터 크리에이터 캠프 우수상 (5인 팀 프로젝트)<br>
+    ResNet-18 아키텍처를 활용한 이미지 분류 모델링 및 전이학습<br><br>
+    <b>#one-step-project</b><br>
+    2023 서울시 빅데이터 캠퍼스 공모전 (4인 팀 프로젝트)<br>
+    서울시 자치구 행정동별 고립은둔청년 발굴을 위한 분석 및 비즈니스 모델 개발<br><br>
+    <b>#NiNi (by. tiny-enchanter)</b> <a href="https://github.com/ing970/tiny-enchanter">[바로가기]</a><br>
+    간편하게 SD 캐릭터 이미지를 생성하도록 하는 Full-Stack 프로젝트 (5인 팀 프로젝트)<br>
   </div>
   <br>
   <br>
