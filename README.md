@@ -46,7 +46,7 @@
 
 ### Projects
   <div>
-    팀 단위 공모전에 참여하여, 데이터 분석부터 딥러닝 모델링까지 다양한 과업 수행<br><br>
+    팀 단위 프로젝트에 참여하여, 데이터 분석부터 딥러닝 모델링까지 다양한 과업 수행<br><br>
     <b>#data-creator-camp</b> <a href="https://github.com/wjco/data-creator-camp">[바로가기]</a><br>
     2023 데이터 크리에이터 캠프 우수상 (5인 팀 프로젝트)<br>
     ResNet-18 아키텍처를 활용한 이미지 분류 모델링 및 전이학습<br><br>
