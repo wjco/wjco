@@ -61,10 +61,11 @@
 
 ### Study Myself
   <div>
-    알고리즘 문제 풀이, 데이터분석, 통계 공부한 내용 등을 기록<br><br>
-    <b>알고리즘 스터디</b> <a href="https://github.com/wjco/Algorithm">[바로가기]</a><br>
-    <b>데이터 스터디</b> <a href="https://github.com/wjco/DataAnalysis">[바로가기]</a><br>
-    <b>통계 스터디</b> <a href="https://github.com/wjco/Statistic">[바로가기]</a><br>
+    SQL, 알고리즘 문제 풀이, 데이터분석, 통계 공부한 내용 등을 기록<br><br>
+    <b>SQL</b> <a href="https://github.com/wjco/SQL">[바로가기]</a><br>
+    <b>데이터</b> <a href="https://github.com/wjco/DataAnalysis">[바로가기]</a><br>
+    <b>통계</b> <a href="https://github.com/wjco/Statistic">[바로가기]</a><br>
+    <b>알고리즘</b> <a href="https://github.com/wjco/Algorithm">[바로가기]</a><br>
   </div>
   <br>
   <br>
