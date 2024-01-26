@@ -30,16 +30,22 @@
 ## What I do in GitHub
 ### Studies
   <div>
-    스터디장으로 3개의 스터디를 직접 조직하여 참여 중<br><br>
+    스터디장으로 5개의 스터디를 직접 조직하여 참여 중<br><br>
     <b>1. DAStatsStudy-fri</b> <a href="https://github.com/wjco/DAStatsStudy-fri">[바로가기]</a><br>
-    (매주 금요일 19시, @왕십리)<br>
-    데이터 분석, 통계 스터디<br><br>
+    (매주 목요일 20시, @건대입구)<br>
+    데이터 분석 미니 프로젝트, 통계 스터디<br><br>
+    <b>2. DAStudy-sat</b> <a href="https://github.com/wjco/DAStudy-sat">[바로가기]</a><br>
+    (매주 토요일 16시, @홍대입구)<br>
+    데이터 분석 미니 프로젝트 스터디<br><br>
+    <b>3.DAStudy-sat2</b> <a href="https://github.com/wjco/DAStudy-sat2">[바로가기]</a><br>
+    (매주 토요일 19시, @강남)<br>
+    데이터 분석 미니 프로젝트 스터디<br><br>
     <b>2. DAStudy-sun2</b> <a href="https://github.com/wjco/DAStudy-sun2">[바로가기]</a><br>
     (매주 일요일 17시, @강남)<br>
-    데이터 분석 스터디<br><br>
+    데이터 분석 미니 프로젝트 스터디<br><br>
     <b>3. DAStudy-sun</b> <a href="https://github.com/wjco/DAStudy-sun">[바로가기]</a><br>
-    (매주 일요일 20시, @사당)<br>
-    데이터 분석 스터디<br>
+    (매주 일요일 20시, @종로)<br>
+    데이터 분석 미니 프로젝트 스터디<br>
   </div>
   <br>
   <br>
