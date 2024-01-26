@@ -40,10 +40,10 @@
     <b>3.DAStudy-sat2</b> <a href="https://github.com/wjco/DAStudy-sat2">[바로가기]</a><br>
     (매주 토요일 19시, @강남)<br>
     데이터 분석 미니 프로젝트 스터디<br><br>
-    <b>2. DAStudy-sun2</b> <a href="https://github.com/wjco/DAStudy-sun2">[바로가기]</a><br>
+    <b>4. DAStudy-sun2</b> <a href="https://github.com/wjco/DAStudy-sun2">[바로가기]</a><br>
     (매주 일요일 17시, @강남)<br>
     데이터 분석 미니 프로젝트 스터디<br><br>
-    <b>3. DAStudy-sun</b> <a href="https://github.com/wjco/DAStudy-sun">[바로가기]</a><br>
+    <b>5. DAStudy-sun</b> <a href="https://github.com/wjco/DAStudy-sun">[바로가기]</a><br>
     (매주 일요일 20시, @종로)<br>
     데이터 분석 미니 프로젝트 스터디<br>
   </div>
